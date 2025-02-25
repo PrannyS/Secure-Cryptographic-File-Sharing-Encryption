@@ -1,6 +1,6 @@
 # Secure-Cryptographic-File-Sharing-Encryption
 ![Status](https://img.shields.io/badge/Status-Completed-green)
-![Tech](https://img.shields.io/badge/Tools-python%2C%20bash-blue)
+![Tech](https://img.shields.io/badge/Tools-Python%2C%20Bash-blue)
 
 ## 📌 Overview 
 This repository contains two cryptographic implementations designed to provide secure file sharing and encryption, ensuring **Confidentiality, Integrity, and Authentication**. The projects focus on using a combination of **symmetric encryption, asymmetric encryption, and hashing algorithms** to protect sensitive files.
