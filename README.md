@@ -48,10 +48,12 @@ This repository contains two cryptographic implementations designed to provide s
 ## Files Included  
 | File Name | Description |  
 |-----------|------------|  
-| `screenshots/*` | All the screenshots to execute this attack |
-| `flowgraphs/fm_receive.grc` | GNU receiver flow graph|
-| `flowgraphs/fm_transmit.grc` | GNU transmitter flow graph|
-
+| `scripts/*` | Contains script for bash and python|
+| `keys/bash` | Contains all keys required for the bash script|
+| `keys/python` | Contains all keys required for the python script|
+| `reports/report.pdf` | Detailed report on the python script|
+| `diagrams/*` | Contains diagrams of the working of the bash script|
+| `README.md` | Project overview, methodology, and learning outcomes|
 
 ---
 
